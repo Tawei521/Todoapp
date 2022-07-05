@@ -5,9 +5,9 @@
 
 ---
 ##project setup
-'''
+
 cd vue-todo-router-axios-app
-'''
+
 npm install
 
 npm run serve

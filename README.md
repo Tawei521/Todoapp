@@ -1,10 +1,10 @@
-#Todoapp
+# Todoapp
 ---
-##demo
-![This is a alt text.](/pic/page.png "This is a sample image.")
+## demo
+![This is a alt text.](./pic/page.png "This is a sample image.")
 ---
 
-##project setup
+## project setup
 
 cd Todoapp
 

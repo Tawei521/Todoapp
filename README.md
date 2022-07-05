@@ -5,9 +5,10 @@
 ---
 
 ## project setup
-
+```bash
 cd Todoapp
 
 npm install
 
 npm run serve
+```
